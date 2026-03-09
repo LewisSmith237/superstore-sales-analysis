@@ -3,7 +3,7 @@
 Analysed 9,994 orders from a US retail chain (2014-2017) to identify profit
 drivers, the impact of discounting, and seasonal trends.
 Built in Python (pandas, seaborn) with a Tableau Public dashboard.
-**[View Live Tableau Dashboard] (https://public.tableau.com/app/profile/lewis.smith4680/viz/SuperstoreSalesAnalysis-Portfolio/SuperstoreSalesPerformanceAnalysis?publish=yes) **
+[View Live Tableau Dashboard](https://public.tableau.com/app/profile/lewis.smith4680/viz/SuperstoreSalesAnalysis-Portfolio/SuperstoreSalesPerformanceAnalysis?publish=yes)
 ## Key Findings
 1. **Technology drives 50% of profit** despite being 36% of orders.
 Tables and Bookcases are loss-making at current pricing.
